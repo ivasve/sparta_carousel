@@ -1,11 +1,11 @@
 var images = [
-  "./sparta_images/004.jpg",
-  "./sparta_images/001.jpg",
-  "./sparta_images/002.jpg",
-  "./sparta_images/003.jpg",
-  "./sparta_images/005.jpg",
-  "./sparta_images/006.jpg",
-  "./sparta_images/007.jpg",
+  "/004.jpg",
+  "/001.jpg",
+  "/002.jpg",
+  "/003.jpg",
+  "/005.jpg",
+  "/006.jpg",
+  "/007.jpg",
 ];
 
 var currentIndex = 0;
